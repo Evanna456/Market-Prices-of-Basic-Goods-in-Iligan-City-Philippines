@@ -1,6 +1,6 @@
-## Market-Prices-of-Basic-Goods-in-Iligan
+## Market-Prices-of-Basic-Goods-in-Iligan-City-Philippines
 
-Market Prices of Basic Goods in Iligan
+Market Prices of Basic Goods in Iligan City Philippines
 
 ## Usage
 
@@ -19,4 +19,4 @@ The Jupyter Notebook is the original web application for creating and sharing co
 
 ## License
 
-Market-Prices-of-Basic-Goods-in-Iligan is licensed under [MIT](https://choosealicense.com/licenses/mit/)
+Market-Prices-of-Basic-Goods-in-Iligan-City-Philippines is licensed under [MIT](https://choosealicense.com/licenses/mit/)
