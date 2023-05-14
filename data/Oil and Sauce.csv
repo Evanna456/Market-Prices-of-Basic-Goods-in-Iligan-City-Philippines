@@ -1,6 +1,8 @@
-Date,UFC Vegetable Oil (1 Liter),Baguio Coconut Oil  (1 Liter),Silver Swan Soy Sauce (1 Gallon),Silver Swan Vinegar  (1 Gallon)
-3/25/2023,,,,
-4/1/2023,,,,
-4/8/2023,136.25,206.75,,
-4/15/2023,136.25,206.75,,
-4/29/2023,136.25,206.75,196.90,153.60
+Date,UFC Vegetable Oil (1 Liter),Vegetable Oil Quality,Baguio Coconut Oil  (1 Liter),Coconut Oil Quality,Silver Swan Soy Sauce (1 Gallon),Soy Sauce Quality,Silver Swan Vinegar  (1 Gallon),Vinegar Quality
+3/25/2023,,,,,,,,
+4/1/2023,,,,,,,,
+4/8/2023,136.25,,206.75,,,,,
+4/15/2023,136.25,,206.75,,,,,
+4/29/2023,136.25,,206.75,,196.90,,153.60,
+5/7/2023,136.25,Brand,206.75,Brand,196.90,Brand,153.60,Brand
+5/14/2023,136.25,Brand,206.75,Brand,196.90,Brand,153.60,Brand
