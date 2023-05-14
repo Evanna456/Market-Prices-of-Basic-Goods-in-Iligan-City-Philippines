@@ -19,8 +19,6 @@ The Jupyter Notebook is the original web application for creating and sharing co
 
 ## License
 
-<ul>
-<li>Market-Prices-of-Basic-Goods-in-Iligan-City-Philippines is licensed under [MIT](https://choosealicense.com/licenses/mit/)</li>
-<li>All the data is made available under the [Open Database License](http://opendatacommons.org/licenses/odbl/1.0/)</li>
-</ul>
+Market-Prices-of-Basic-Goods-in-Iligan-City-Philippines is licensed under [MIT](https://choosealicense.com/licenses/mit/)
+All the data is made available under the [Open Database License](http://opendatacommons.org/licenses/odbl/1.0/)
 
