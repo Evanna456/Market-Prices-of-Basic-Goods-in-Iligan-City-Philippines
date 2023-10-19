@@ -1,6 +1,6 @@
 ## Market-Prices-of-Basic-Goods-in-Iligan-City-Philippines
 
-Market Prices of Basic Goods in Iligan City Philippines
+Market Prices (₱-Philippine Peso) of Basic Goods in Iligan City Philippines 
 
 ## License
 
