@@ -5,7 +5,7 @@ Date,Carrot (1 Kilo),Carrot Quality,Cabbage (1 Kilo),Cabbage Quality,Eggplant (1
 2023-04-15,30,,30,,45,
 2023-04-29,40,,30,,35,
 2023-05-07,70,Small,35, Normal,35,Normal
-2023-05-14,70, Small,35, Normal,35,Normal
+2023-05-14,70,Small,35, Normal,35,Normal
 2023-05-20,70,Small,30, Normal,35,Normal
 2023-05-27,30,Small,30, Normal,30,Normal
 2023-06-10,40,Small,30, Normal,35,Normal
@@ -20,3 +20,4 @@ Date,Carrot (1 Kilo),Carrot Quality,Cabbage (1 Kilo),Cabbage Quality,Eggplant (1
 2023-11-11,30,Normal,35, Normal,40,Normal
 2023-11-25,30,Normal,30, Normal,30,Normal
 2023-12-02,60,Normal,30, Normal,45,Normal
+2023-12-09,70,Normal,35, Normal,40,Normal
