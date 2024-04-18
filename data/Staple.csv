@@ -1,30 +1,32 @@
-Date,White Sugar (1 Kilo),Sugar Quality,Brown Sugar (1 Kilo),Sugar Quality
-2023-03-25,,,,
-2023-04-01,104.45 ,,,
-2023-04-08,104.45 ,,,
-2023-04-15,104.45 ,,,
-2023-04-29,104.45 ,,,
-2023-05-07,104.45 ,Normal,,
-2023-05-14,104.45 ,Normal,,
-2023-05-20,104.45 ,Normal,,
-2023-05-27,104.45 ,Normal,,
-2023-06-10,90.00 ,Normal,75.00 ,Normal
-2023-06-17,90.00 ,Normal,75.00 ,Normal
-2023-07-01,90.00 ,Normal,75.00 ,Normal
-2023-07-08,90.00 ,Normal,75.00 ,Normal
-2023-07-15,90.00 ,Normal,75.00 ,Normal
-2023-07-29,90.00 ,Normal,75.00 ,Normal
-2023-08-05,90.00 ,Normal,75.00 ,Normal
-2023-08-12,90.00 ,Normal,75.00 ,Normal
-2023-08-26,90.00 ,Normal,75.00 ,Normal
-2023-11-11,85.00 ,Normal,70.00 ,Normal
-2023-11-25,85.00 ,Normal,70.00 ,Normal
-2023-12-02,86.00 ,Normal,70.00 ,Normal
-2023-12-09,86.00 ,Normal,70.00 ,Normal
-2023-12-16,86.00 ,Normal,70.00 ,Normal
-2024-01-06,86.00 ,Normal,70.00 ,Normal
-2024-01-20,86.00 ,Normal,70.00 ,Normal
-2024-02-04,70.00 ,Normal,65.00 ,Normal
-2024-02-24,75.00 ,Normal,60.00 ,Normal
-2024-03-02,75.00 ,Normal,60.00 ,Normal
-2024-03-22,75.00 ,Normal,60.00 ,Normal
+Date,Princess Bea Premium Rice (1 Kilo),Premium Rice Quality,Potato (1 Kilo),Potato Quality,Corn Rice #12 (1 Kilo),Corn Rice #12 Quality
+2023-03-25,45.00 ,,,,,
+2023-04-01,45.00 ,,95.00 ,,,
+2023-04-08,45.00 ,Brand,80.00 ,,36.00 ,Normal
+2023-04-15,45.00 ,Brand,75.00 ,,37.00 ,Normal
+2023-04-29,45.00 ,Brand,110.00 ,,37.00 ,Normal
+2023-05-07,45.00 ,Brand,70.00 ,Normal,37.00 ,Normal
+2023-05-14,45.00 ,Brand,80.00 ,Normal,37.00 ,Normal
+2023-05-20,46.00 ,Brand,80.00 ,Normal,37.00 ,Normal
+2023-05-27,46.00 ,Brand,70.00 ,Normal,37.00 ,Normal
+2023-06-10,46.00 ,Brand,80.00 ,Normal,37.00 ,Normal
+2023-06-17,46.00 ,Brand,100.00 ,Normal,37.00 ,Normal
+2023-07-01,45.00 ,Brand,90.00 ,Normal,37.00 ,Normal
+2023-07-08,46.00 ,Brand,100.00 ,Normal,37.00 ,Normal
+2023-07-15,46.00 ,Brand,100.00 ,Normal,37.00 ,Normal
+2023-07-29,47.00 ,Brand,100.00 ,Normal,37.00 ,Normal
+2023-08-05,49.00 ,Brand,90.00 ,Normal,37.00 ,Normal
+2023-08-12,53.00 ,Brand,100.00 ,Normal,37.00 ,Normal
+2023-08-26,59.00 ,Brand,90.00 ,Normal,40.00 ,Normal
+2023-11-11,57.00 ,Brand,100.00 ,Normal,44.00 ,Normal
+2023-11-25,57.00 ,Brand,100.00 ,Normal,44.00 ,Normal
+2023-12-02,57.00 ,Brand,150.00 ,Normal,45.00 ,Normal
+2023-12-09,57.00 ,Brand,150.00 ,Normal,45.00 ,Normal
+2023-12-16,57.00 ,Brand,140.00 ,Normal,40.00 ,Normal
+2024-01-06,58.00 ,Brand,120.00 ,Normal,40.00 ,Normal
+2024-01-20,58.00 ,Brand,90.00 ,Normal,40.00 ,Normal
+2024-02-04,58.00 ,Brand,110.00 ,Normal,40.00 ,Normal
+2024-02-24,57.00 ,Brand,120.00 ,Normal,40.00 ,Normal
+2024-03-02,57.00 ,Brand,120.00 ,Normal,40.00 ,Normal
+2024-03-22,57.00 ,Brand,120.00 ,Normal,40.00 ,Normal
+2024-03-30,57.00 ,Brand,120.00 ,Normal,40.00 ,Normal
+2024-04-06,57.00 ,Brand,110.00 ,Normal,40.00 ,Normal
